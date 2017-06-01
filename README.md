@@ -1,0 +1,1 @@
+# An-Alternative-Approach-to-Forecast-the-Volatility-of-Multiscale-and-High-Dimensional-Market-Data
